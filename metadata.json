@@ -1,0 +1,6 @@
+{
+  "name": "ResoDrum - Drum Tuner & Fill Lab",
+  "description": "Real-time drum pitch tuner, lug frequency analyzer, sound recorder, and interactive custom fill pattern trainer.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
